@@ -1,7 +1,7 @@
 # Fart-Button-Game
 Funny button fart game
-Go to CodePen.
-Copy and paste the HTML into the "HTML" section.
-Copy and paste the JavaScript inside a <script> tag at the bottom of the HTML section.
-Upload the fart sounds to an online storage service and replace fart.mp3 and big_fart.mp3 with direct links.
-Click Save & Share to get a link.
+Steps to Use
+Download the provided code and sound files.
+Open the index.html file in a web browser.
+Click the button to play a fart sound and increase the counter.
+When the counter reaches 1,000,000, a secret gake fart sound will play.
